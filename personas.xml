@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+  <persona>
+    <nombre>Coelho</nombre>
+    <edad>10</edad>
+  </persona>
+  <persona>
+    <nombre>Marta</nombre>
+    <edad>100</edad>
+  </persona>
+  <persona>
+    <nombre>Papadospoulos</nombre>
+    <edad>60</edad>
+  </persona>
+  <persona>
+    <nombre>Perdo</nombre>
+    <edad>25</edad>
+  </persona>
+</personas>
